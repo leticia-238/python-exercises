@@ -1,5 +1,5 @@
 n = int(input("Digite um número inteiro:"))
-i = int(n ** (1/2))
+i = int(n ** (1 / 2))
 is_prime = True
 
 while i > 1 and is_prime:
